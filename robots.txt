@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://javohir.me/sitemap-index.xml
+Host: https://javohir.me
