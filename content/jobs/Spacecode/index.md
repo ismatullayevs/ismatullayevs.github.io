@@ -1,9 +1,9 @@
 ---
-date: '2023-09-06'
+date: '2024-06-18'
 title: 'Backend Developer'
 company: 'Spacecode'
 location: 'Moscow, Remote'
-range: 'Dec 2022 - Sep 2023'
+range: 'Dec 2022 - Jun 2024'
 url: 'https://spacecode.ru'
 ---
 
